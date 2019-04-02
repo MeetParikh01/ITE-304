@@ -22,5 +22,5 @@ class Clock(object):
 		self.minute-=minutes
 		return self.myfun()
 
-#print("15:36"=="15:37")
+print("15:36"=="15:37")
 #print(str(Clock(11, 9))== '11:09')
